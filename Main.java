@@ -10,5 +10,9 @@ public class Main {
         int d = 5;
         System.out.println(c-d);
 
+        int x = 23;
+        int y = 3;
+        System.out.println(x*y);
+
     }
 }
