@@ -14,5 +14,9 @@ public class Main {
         int y = 3;
         System.out.println(x*y);
 
+        int z = 15;
+        int w = 3;
+        System.out.println(z/w);
+
     }
 }
